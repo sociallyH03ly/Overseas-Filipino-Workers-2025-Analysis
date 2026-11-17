@@ -1,6 +1,6 @@
 # Overseas Filipino Workers 2025 Analysis
 
-About **3 million overseas Filipinos** are covered by this survey. We looked at how much money they send home, what the families do with it, who is most likely to come back, and where they come from.
+This report analyzes 4,215 survey records, which represent about 3.03 million overseas Filipinos once survey weights are applied. It moves from exploratory data analysis (EDA) to five analytical angles: remittance behavior, remittance-to-income, persona segmentation, return and reintegration, and regional supply. All population figures are weighted with the survey weight (RSWGT) unless marked as sample counts.
 
 | What we found | In numbers |
 |---|---|
