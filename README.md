@@ -2,6 +2,7 @@
 
 This report analyzes 4,215 survey records, which represent about 3.03 million overseas Filipinos once survey weights are applied. It moves from exploratory data analysis (EDA) to five analytical angles: remittance behavior, remittance-to-income, persona segmentation, return and reintegration, and regional supply. All population figures are weighted with the survey weight (RSWGT) unless marked as sample counts.
 
+## Headline Findings
 | What we found | In numbers |
 |---|---|
 | Almost every working OFW sends money home | **8 in 10** (80.7%) of workers send cash home |
